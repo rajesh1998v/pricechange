@@ -14,6 +14,7 @@ function App() {
   return (
     <div className="KJUh7">
       <h3>Price Change </h3>
+      new code
 
       <input className='price' type="number" value={value} placeholder="Enter number" onChange={handleChange} />
 
